@@ -3,7 +3,7 @@ Esse repositório foi criado no âmbito da disciplina de PSI
 
 Autor:
     Nome: Henrique Marcos
-    Turma: 3F
+    Turma: 3
 
 Objetivos:
     Compreender o controlo de versões.
